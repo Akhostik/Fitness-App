@@ -1,8 +1,13 @@
-# flutter_app6
+# Fitness App
 
-A new Flutter application.
+## About
 
-## Getting Started
+
+A fitness app (Flutter UI) that offers you the options of new people to meet, places to eat, yoga centers, clubs and others. 
+Feel free to use this code for commercial or personal use!
+
+Follow me on Social media:
+Facebook -Shalom Akos Instagram - akhostik Twitter - akhostik
 
 This project is a starting point for a Flutter application.
 
